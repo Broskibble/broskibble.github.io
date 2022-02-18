@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Broskibble DEV'S homepage
 description: Bookmark this to keep an eye on my project updates!
+github:
+  is_project_page: false
