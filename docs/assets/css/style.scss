@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-header {
+footer {
+  display: none;
+}
+
+.btn {
   display: none;
 }
