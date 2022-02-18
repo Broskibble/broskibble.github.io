@@ -1,7 +1,12 @@
+---
+---
+
 @import "{{ site.theme }}";
 
-header {
+footer {
+  display: none !important;
+}
 
-display: none;
-
+.btn {
+  display: none !important;
 }
